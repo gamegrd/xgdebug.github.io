@@ -1,3 +1,3 @@
 Hi, I am xgDebug
 
-Email: <xgDebug@gmail.com>
+Email: <xgDebug@outlook.com>
