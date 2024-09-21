@@ -1,0 +1,8 @@
+---
+title: 'There are three broad classes of leverage'
+date: Sun, 25 Jun 2023 05:48:04 +0000
+draft: false
+tags: ['MBA', 'Navalmanack', 'Self-care', '商业', '小本本', '心理学']
+---
+
+One form of leverage is labor—other humans working for you. It is the oldest form of leverage, and actually not a great one in the modern world. \[1\] I would argue this is the worst form of leverage that you could possibly use. Managing other people is incredibly messy. It requires tremendous leadership skills. You’re one short hop from a mutiny or getting eaten or torn apart by the mob. \[78\] Money is good as a form of leverage. It means every time you make a decision, you multiply it with money. \[1\] Capital is a trickier form of leverage to use. It’s more modern. It’s the one that people have used to get fabulously wealthy in the last century. It’s probably been the dominant form of leverage in the last century. You can see this by looking for the richest people. It’s bankers, politicians in corrupt countries who print money, essentially people who move large amounts of money around. If you look at the top of very large companies, outside of technology companies, in many, many large old companies, the CEO job is really a financial job. It scales very, very well. If you get good at managing capital, you can manage more and more capital much more easily than you can manage more and more people. The final form of leverage is brand new—the most democratic form. It is: “products with no marginal cost of replication.” This includes books, media, movies, and code. Code is probably the most powerful form of permissionless leverage. All you need is a computer—you don’t need anyone’s permission.
