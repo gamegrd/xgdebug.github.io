@@ -1,6 +1,6 @@
 ---
 title: 'Atomic Habits'
-date: Sat, 26 Aug 2023 06:38:11 +0000
+date:       2024-09-21 12:00:00
 draft: false
 tags: ['读书笔记']
 ---
